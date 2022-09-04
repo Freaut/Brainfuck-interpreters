@@ -1,0 +1,8 @@
+C:\Users\thega\Desktop\Yes100\c#\brainfuck-interpreter\BrainFuckInterpreter\BrainFuckInterpreter\bin\Debug\BrainFuckInterpreter.exe.config
+C:\Users\thega\Desktop\Yes100\c#\brainfuck-interpreter\BrainFuckInterpreter\BrainFuckInterpreter\bin\Debug\BrainFuckInterpreter.exe
+C:\Users\thega\Desktop\Yes100\c#\brainfuck-interpreter\BrainFuckInterpreter\BrainFuckInterpreter\bin\Debug\BrainFuckInterpreter.pdb
+C:\Users\thega\Desktop\Yes100\c#\brainfuck-interpreter\BrainFuckInterpreter\BrainFuckInterpreter\obj\Debug\BrainFuckInterpreter.csproj.AssemblyReference.cache
+C:\Users\thega\Desktop\Yes100\c#\brainfuck-interpreter\BrainFuckInterpreter\BrainFuckInterpreter\obj\Debug\BrainFuckInterpreter.csproj.SuggestedBindingRedirects.cache
+C:\Users\thega\Desktop\Yes100\c#\brainfuck-interpreter\BrainFuckInterpreter\BrainFuckInterpreter\obj\Debug\BrainFuckInterpreter.csproj.CoreCompileInputs.cache
+C:\Users\thega\Desktop\Yes100\c#\brainfuck-interpreter\BrainFuckInterpreter\BrainFuckInterpreter\obj\Debug\BrainFuckInterpreter.exe
+C:\Users\thega\Desktop\Yes100\c#\brainfuck-interpreter\BrainFuckInterpreter\BrainFuckInterpreter\obj\Debug\BrainFuckInterpreter.pdb
